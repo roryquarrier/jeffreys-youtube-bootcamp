@@ -1,0 +1,248 @@
+{
+ "_note": "Quiz bank for Jeffrey's YouTube Bootcamp. 'answer' is a 0-based index into options.",
+ "step-01": {
+  "title": "Step 1 — Understand the Job",
+  "questions": [
+   {
+    "q": "What is a YouTuber's actual job, in one line?",
+    "options": [
+     "Make videos people choose to watch again and again",
+     "Get famous fast",
+     "Play games all day",
+     "Buy the best camera"
+    ],
+    "answer": 0,
+    "why": "Everything else — money, fans, sponsors — is a result of that one sentence."
+   },
+   {
+    "q": "What does the algorithm reward FIRST?",
+    "options": [
+     "Talent",
+     "Consistency",
+     "Expensive gear",
+     "Luck"
+    ],
+    "answer": 1,
+    "why": "Reliability first. One video a week for months beats ten videos then silence."
+   },
+   {
+    "q": "Most channels die at which video?",
+    "options": [
+     "Video 3",
+     "Video 100",
+     "Video 50",
+     "They never die"
+    ],
+    "answer": 0,
+    "why": "Most people quit around video three. Not quitting is the whole trick."
+   },
+   {
+    "q": "Which niche is stronger for starting?",
+    "options": [
+     "Gaming videos in general",
+     "Rivals loadout guides",
+     "Everything: gaming, vlogs, cooking",
+     "Whatever is trending that day"
+    ],
+    "answer": 1,
+    "why": "Narrow beats broad. A few hundred competitors, not 50 million."
+   }
+  ]
+ },
+ "step-02": {
+  "title": "Step 2 — Plan Your Channel",
+  "questions": [
+   {
+    "q": "Why write 10 video ideas BEFORE video 1?",
+    "options": [
+     "It's homework",
+     "Channels die when video 2 has no idea",
+     "YouTube requires it",
+     "It fills the description"
+    ],
+    "answer": 1,
+    "why": "The 'what do I make next?' gap is what kills most channels."
+   },
+   {
+    "q": "What is the 'One Viewer' trick?",
+    "options": [
+     "Make videos for one specific person with one problem",
+     "Get one friend to subscribe",
+     "Only have one viewer",
+     "Make one video"
+    ],
+    "answer": 0,
+    "why": "Videos made 'for everyone' are watched by no one."
+   },
+   {
+    "q": "Which channel name is best?",
+    "options": [
+     "xX_jeffrey_293",
+     "JeffreyPlays",
+     "Untitled Channel",
+     "RivalsKing8838"
+    ],
+    "answer": 1,
+    "why": "Easy to say and spell, works everywhere, not locked to one game."
+   },
+   {
+    "q": "Why is 'my gameplay #4' a bad video idea?",
+    "options": [
+     "It's too short",
+     "It has no clear promise — nobody clicks it",
+     "Gameplay is banned",
+     "It's too long"
+    ],
+    "answer": 1,
+    "why": "Every video needs a clear promise in the title, not a number."
+   }
+  ]
+ },
+ "step-03": {
+  "title": "Step 3 — Make Your First Video",
+  "questions": [
+   {
+    "q": "What must the first 8-15 seconds do?",
+    "options": [
+     "Play the channel intro music",
+     "Welcome everyone to the channel",
+     "Deliver the hook — who it's for and what they get",
+     "Say nothing while gameplay plays"
+    ],
+    "answer": 2,
+    "why": "Viewers decide in ~8 seconds. 'Hey guys welcome back' loses them."
+   },
+   {
+    "q": "What is retention?",
+    "options": [
+     "The % of the video people actually watch",
+     "How many videos you keep",
+     "Your subscriber count",
+     "How long your channel lasts"
+    ],
+    "answer": 0,
+    "why": "Retention is the biggest ranking signal. Keep people watching."
+   },
+   {
+    "q": "You're 12 and don't want to show your face. Best option?",
+    "options": [
+     "Wait until you're older",
+     "Voice + gameplay, no face",
+     "Text and music only",
+     "Wear a mask"
+    ],
+    "answer": 1,
+    "why": "Voice + gameplay is perfect for gaming — connection without exposure."
+   },
+   {
+    "q": "What matters more than a fancy camera?",
+    "options": [
+     "Clear audio and tight editing",
+     "A gaming chair",
+     "RGB lights",
+     "A 4K webcam"
+    ],
+    "answer": 0,
+    "why": "Clear audio and tight editing. The camera barely matters."
+   }
+  ]
+ },
+ "step-04": {
+  "title": "Step 4 — Upload Like a Pro",
+  "questions": [
+   {
+    "q": "What decides your CTR?",
+    "options": [
+     "Your title and thumbnail",
+     "Your editing software",
+     "Your upload speed",
+     "Your subscriber count"
+    ],
+    "answer": 0,
+    "why": "CTR is decided before anyone watches — it's the packaging."
+   },
+   {
+    "q": "What's a good target CTR?",
+    "options": [
+     "0.5–1%",
+     "4–10%",
+     "50%",
+     "100%"
+    ],
+    "answer": 1,
+    "why": "4–10% is solid. Below that, fix the thumbnail and title."
+   },
+   {
+    "q": "Why make the thumbnail BEFORE editing?",
+    "options": [
+     "It's faster",
+     "If you can't make a compelling thumbnail, the video isn't compelling",
+     "YouTube requires the thumbnail first",
+     "Thumbnails cost money"
+    ],
+    "answer": 1,
+    "why": "The thumbnail is the promise. If it doesn't work, rethink the video."
+   },
+   {
+    "q": "What's the smart play with Shorts?",
+    "options": [
+     "Only make Shorts",
+     "Cut the best 30 seconds of your long video as a Short pointing to it",
+     "Never make Shorts",
+     "Make Shorts instead of long videos"
+    ],
+    "answer": 1,
+    "why": "One effort, two products. Shorts for discovery, long videos for the audience."
+   }
+  ]
+ },
+ "step-05": {
+  "title": "Step 5 — Grow & Stay Safe",
+  "questions": [
+   {
+    "q": "When should you judge your channel's success?",
+    "options": [
+     "After video 1",
+     "After video 3",
+     "After 20 videos",
+     "After the first week"
+    ],
+    "answer": 2,
+    "why": "The 20-video deal: first 10 are practice, 10–20 is where style emerges."
+   },
+   {
+    "q": "What does the YouTube Partner Program require?",
+    "options": [
+     "100 subscribers",
+     "1,000 subs + 4,000 watch hours (or 10M Shorts views), and 13+",
+     "1 million views",
+     "A sponsorship deal"
+    ],
+    "answer": 1,
+    "why": "And realistically it's 6–18 months of consistent work away."
+   },
+   {
+    "q": "Which is NEVER okay to share?",
+    "options": [
+     "Your favourite loadout",
+     "Your school, address or daily routine",
+     "Your gameplay clips",
+     "Your opinion on a weapon"
+    ],
+    "answer": 1,
+    "why": "Viewers include people you don't want knowing your location or routine."
+   },
+   {
+    "q": "Why should you not read out hate comments on camera?",
+    "options": [
+     "It's boring",
+     "It feeds the trolls and hurts you",
+     "The video gets too long",
+     "Comments can't be filmed"
+    ],
+    "answer": 1,
+    "why": "Trolls want the reaction. Block, delete, move on."
+   }
+  ]
+ }
+}
